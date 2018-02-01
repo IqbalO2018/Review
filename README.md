@@ -21,6 +21,7 @@
   - edits a file too
 
 ## git
+
 -git clone
   - clones (URL of repository) dowloads it from ubuntu
 - git add .

@@ -22,8 +22,8 @@
 
 ## git
 
--git clone
-  - clones (URL of repository) dowloads it from ubuntu
+- git clone (URL)
+  - establishes a connection to a github repository and downloads it to ubuntu
 - git add .
   - tells you which files will be commited (the . means all of them)
 - git commit -m "type message"

@@ -1,6 +1,6 @@
 # Review
 
-#ubuntu
+## ubuntu
 - mkdir
   - makes a directory 
 - rmdir 
@@ -20,7 +20,7 @@
 - nano
   - edits a file too
 
-##git
+## git
 -git clone
   - clones (URL of repository) dowloads it from ubuntu
 - git add .
